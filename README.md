@@ -27,9 +27,14 @@
 
 <a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. GET SESSION ID HERE
+### 2. GET SESSION ID HERE (PAIR CODE) 
 
-<a href='https://mainv2-f66485a0f702.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+<a href='https://session.osc-fr1.scalingo.io/pair' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+
+### 3. GET SESSION ID HERE (QR CODE) 
+
+<a href='https://session.osc-fr1.scalingo.io/wasiqr ' target="_blank"><img alt='QR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+
 
 ### DEPLOY ON SCALINGO
 
@@ -97,7 +102,7 @@
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
   
-  #### ```TOTAL PROFILE VIEWS 🧚```
+  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
